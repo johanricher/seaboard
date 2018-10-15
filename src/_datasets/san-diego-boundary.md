@@ -29,6 +29,7 @@ resources:
 license: 'http://www.opendefinition.org/licenses/odc-pddl'
 date_issued: '2017-06-30'
 date_modified: '2017-09-05'
+frequency: 'Weekly'
 maintainer: SanGIS
 maintainer_email: data@sandiego.gov
 ---

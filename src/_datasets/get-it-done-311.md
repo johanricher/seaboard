@@ -26,6 +26,7 @@ resources:
     format: json
 date_issued: '2016-05-26'
 date_modified: '2018-10-09'
+frequency: 'Hourly'
 license: 'http://www.opendefinition.org/licenses/odc-pddl'
 maintainer: City of San Diego
 maintainer_email: data@sandiego.gov

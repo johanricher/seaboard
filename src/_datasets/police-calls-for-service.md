@@ -24,16 +24,19 @@ resources:
 license: 'http://www.opendefinition.org/licenses/odc-pddl'
 date_issued: '2016-05-02'
 date_modified: '2017-08-14'
+frequency: 'Daily'
 maintainer: City of San Diego
 maintainer_email: data@sandiego.gov
 ---
 Calls dispatched by the San Diego Police Department's communications
 dispatch center.
 <!--more-->
+
+**Please note:** Updated data is not available at this time. We are working with the department to restore the data feed and will restart data updates at a later time.
+
 Data regarding sensitive incidents including domestic
 violence, child abuse, suicide, sex crimes and stalking are excluded.
 Priority Definitions are provided in [this PDF file](http://seshat.datasd.org/pd/pd_cfs_priority_defs_datasd.pdf){:target='_blank'}.
-
 
 Data regarding the disposition codes used by the Police Department can be
 found [here](/datasets/police-calls-disposition-codes/){:target='_blank'}, while data about the SDPD Police beats

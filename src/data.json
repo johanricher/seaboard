@@ -49,6 +49,7 @@
       "@type": "dcat:Dataset",
       "issued": {{ date_issued | jsonify }},
       "modified": {{ date_modified | jsonify }},
+      "accrualPeriodicity": {{ frequency | jsonify }},
       "accessLevel": "public"{% if publisher_name %},
       "publisher": {
         "@type": "org:department",
