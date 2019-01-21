@@ -6,7 +6,7 @@ script: bundle exec jekyll build --destination _site/jkan && bundle exec htmlpro
 
 branches:
   only:
-    - gh-pages
+    - master
 
 env:
   global:
